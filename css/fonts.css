@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'ZCOOL KuaiLe';
     src: url(../fonts/ZCOOL_KuaiLe/ZCOOLKuaiLe-Regular.ttf);
 }
 
@@ -9,6 +9,6 @@
 }
 
 @font-face {
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Alfa Slab One';
     src: url(../fonts/Alfa_Slab_One/AlfaSlabOne-Regular.ttf);
 }
