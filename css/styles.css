@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+#wrapper {
+    position: relative;
+    overflow-x: hidden;
+}
+
+.nav {
+    width: 100%;
+    border: 1px dashed black;
+    background-image: url("../assets/oboi-tekstura-fon-rabochij-stol.jpg");
+    opacity: 0.5;
+}
+
+li {
+    display: inline-block;
+    margin: 10px 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.article__text {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    padding: 10px;
+}
+
+.footer__text {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 10px;
+    text-align: center;
+
+    width: 100%;
+    height: 30px;
+    padding-top: 8px;
+    color: darkmagenta;
+}
+
+
+
+
+
+
